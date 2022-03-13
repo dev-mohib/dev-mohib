@@ -3,7 +3,7 @@
 
 
 <br/>
-<a href="https://twitter.com/8bithemant">
+<a href="https://twitter.com/dev_mohib">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/dev-mohib/">
