@@ -1,4 +1,7 @@
-### Hi there, I'm [Mohib!](https://dev-mohib.github.io) 👋. 
+
+<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/dev-mohib/dev-mohib/blob/4fe4711bbcbf4a58e2bc31d982f09a4523ffb59e/hello-world.png" />
+
+# I'm [Mohib Ali!](https://dev-mohib.github.io) 👋. 
 <!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" > -->
 
 
@@ -12,7 +15,7 @@
 <a href="https://t.me/dev-mohib">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/ig.mohib">
+<a href="https://www.instagram.com/dev.mohib">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.reddit.com/user/devmohib/">
@@ -29,7 +32,7 @@
 
 <br />
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+
 <br />
 
 ### Hi 🙋‍♂️,
@@ -55,7 +58,6 @@
 
 **Machine Learning, Web Development, Mobile App Development, SEO, Micro Services, System Design, Competetive Programming & Web3 😼**
 <br />
-
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
@@ -88,12 +90,3 @@
 
 #### Thank You-🙏🏼
 
-
-
-⭐️ From [8bithemant](https://github.com/8bithemant)
-$10-worth New Year Gift for You
-Make your 2022 productive
-with LINER Premium
-
-Dismiss
-Open the gift
