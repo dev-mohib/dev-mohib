@@ -1,11 +1,7 @@
+<img align="center"  alt="GIF" src="https://github.com/dev-mohib/dev-mohib/blob/4fe4711bbcbf4a58e2bc31d982f09a4523ffb59e/hello-world.png" />
+<!-- height="270px" width="450px" -->
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/dev-mohib/dev-mohib/blob/4fe4711bbcbf4a58e2bc31d982f09a4523ffb59e/hello-world.png" />
-
-<br />
-
-# I'm [Mohib Ali!](https://dev-mohib.github.io) 👋. 
-<!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" > -->
-
+# I'm <a href="https://dev-mohib.github.io" target="__blank"> Mohib Ali </a> 👋. 
 
 <br/>
 <a href="https://twitter.com/dev_mohib">
@@ -30,18 +26,16 @@
   <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
-
 <br />
 
 
 <br />
 
-### Hi 🙋‍♂️,
-### I'm 24 years old Self-taught Full-Stack developer from Pakistan.
+<!-- ### Hi 🙋‍♂️, -->
+### I am 24 years old Self-taught developer from Pakistan.
 
 
-#### - 🥀 Experienced in  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
+#### - 🥀 Experienced in Javascript(mern stack, react native, nextjs, sveltejs etc), Flutter, Firebase, Solidity....
 
 
 
@@ -56,7 +50,7 @@
 <br />
 
 
-**I am Into , 🙏**
+**I am Into **
 
 **Machine Learning, Web Development, Mobile App Development, SEO, Micro Services, System Design, Competetive Programming & Web3 😼**
 <br />
