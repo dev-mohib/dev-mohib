@@ -50,7 +50,7 @@
 <br />
 
 
-**I am Into **
+**I am Into**
 
 **Machine Learning, Web Development, Mobile App Development, SEO, Micro Services, System Design, Competetive Programming & Web3 😼**
 <br />
