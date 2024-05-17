@@ -47,9 +47,9 @@
 
 #### - 🛸 5+ Years of Experience
 
-#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/dev_mohib/)
+#### - 💬 Connect? Here 👉🏼 [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/dev_mohib/)
 
-#### - 💬 Portfolio 👉🏼[<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/portfolio-clothes-clothing-store-shop-style-wardrobe-53865.png?f=webp&w=64" >](https://dev-mohib.github.io)
+#### - 💬 Portfolio 👉🏼 [<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/portfolio-clothes-clothing-store-shop-style-wardrobe-53865.png?f=webp&w=32" >](https://dev-mohib.github.io)
 
 
 <br />
