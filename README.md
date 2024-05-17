@@ -1,7 +1,7 @@
 <img align="center"  alt="GIF" src="https://github.com/dev-mohib/dev-mohib/blob/4fe4711bbcbf4a58e2bc31d982f09a4523ffb59e/hello-world.png" />
 <!-- height="270px" width="450px" -->
 
-# I'm <a href="https://dev-mohib.github.io" target="__blank"> Mohib Ali </a> 👋. 
+# I'm <a href="https://dev-mohib.github.io" target="__blank"> Muhabbat Ali </a> 👋. 
 
 <br/>
 <a href="https://twitter.com/dev_mohib">
@@ -13,29 +13,32 @@
 <a href="https://t.me/dev-mohib">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/dev.mohib">
+<a href="https://www.instagram.com/mohib.dev">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/devmohib/">
+<a href="https://www.reddit.com/user/dev_mohib/">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <a href="https://leetcode.com/devmohib/">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://www.codechef.com/users/dev-mohib">
-  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-
 <br />
 
 
 <br />
 
 <!-- ### Hi 🙋‍♂️, -->
-### I am 24 years old Self-taught developer from Pakistan.
+### I am 25 years old Self-taught developer from Pakistan.
 
 
-#### - 🥀 Experienced in Javascript(mern stack, react native, nextjs, sveltejs etc), Flutter, Firebase, Solidity....
+#### - 🥀 Experienced in Javascript
+- Full Stack Development
+- Javascript, Typescript, React.js, Node.js
+- PHP Laravel, Wordoress, Symfony
+- Spring Boot
+- Firebase, Supabase, Hasura
+- AWS, Azure, GCP
+- DevOps (Docker, Kubernetes, Jenkins, Terranform, Ansible)
 
 
 
@@ -46,16 +49,18 @@
 
 #### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/dev_mohib/)
 
+#### - 💬 Portfolio 👉🏼[<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/portfolio-clothes-clothing-store-shop-style-wardrobe-53865.png?f=webp&w=256" >](https://dev-mohib.github.io)
+
 
 <br />
 
 
 **I am Into**
 
-**Machine Learning, Web Development, Mobile App Development, SEO, Micro Services, System Design, Competetive Programming & Web3 😼**
+**Web Development, Mobile App Development, DevOps, System Design, Programming, Micro Services**
 <br />
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Github Stats](https://camo.githubusercontent.com/9956eafe39bf06a30858b72293cb039cf5c3d1becc4ac87c3b63ab5a529422a4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a726126686964655f70726f67726573733d74727565)
 
 <br />
 
@@ -73,14 +78,10 @@
 ### - Blogs 🌱
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
+  <a href="https://dev-mohib.github.io/blog">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
+  </a>
 </p>
-
-### - Podcast ⚡️
-<p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
-</p>
-
 
 ***********************************
 
