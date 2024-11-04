@@ -31,7 +31,7 @@
 ### I am 26 years old and a self-taught developer from Pakistan.
 
 
-#### - 🥀 Experienced
+#### 🥀 Experience
 - Full Stack Development
 - Javascript, Typescript, PHP, Python
 - React.js, Node.js, Next.js, Astro
