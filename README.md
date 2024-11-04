@@ -28,17 +28,19 @@
 <br />
 
 <!-- ### Hi 🙋‍♂️, -->
-### I am 25 years old Self-taught developer from Pakistan.
+### I am 26 years old and a self-taught developer from Pakistan.
 
 
-#### - 🥀 Experienced in Javascript
+#### - 🥀 Experienced
 - Full Stack Development
-- Javascript, Typescript, React.js, Node.js
-- PHP Laravel, Wordoress, Symfony
+- Javascript, Typescript, PHP, Python
+- React.js, Node.js, Next.js, Astro
+- Flutter, React Native
+- PHP, Laravel, WordPress, Symfony
 - Spring Boot
-- Firebase, Supabase, Hasura
+- Firebase, Supabase
 - AWS, Azure, GCP
-- DevOps (Docker, Kubernetes, Jenkins, Terranform, Ansible)
+- DevOps (Docker, Kubernetes, Jenkins, Terraform, Ansible)
 
 
 
@@ -48,6 +50,7 @@
 #### - 🛸 5+ Years of Experience
 
 #### - 💬 Connect? Here 👉🏼 [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/dev_mohib/)
+#### - 💬 LinkedIn 👉🏼 [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://linkedin.com/in/dev_mohib/)
 
 #### - 💬 Portfolio 👉🏼 [<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/portfolio-clothes-clothing-store-shop-style-wardrobe-53865.png?f=webp&w=32" >](https://dev-mohib.github.io)
 
