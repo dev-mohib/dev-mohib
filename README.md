@@ -52,7 +52,7 @@
 #### - 💬 Connect? Here 👉🏼 [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/dev_mohib/)
 #### - 💬 LinkedIn 👉🏼 [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://linkedin.com/in/dev_mohib/)
 
-#### - 💬 Portfolio 👉🏼 [<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/portfolio-clothes-clothing-store-shop-style-wardrobe-53865.png?f=webp&w=32" >](https://dev-mohib.github.io)
+#### - 💬 Portfolio 👉🏼 [<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/portfolio-clothes-clothing-store-shop-style-wardrobe-53865.png?f=webp&w=32" >](https://me.coding-buddy.com)
 
 
 <br />
@@ -62,6 +62,7 @@
 
 **Web Development, Mobile App Development, DevOps, System Design, Programming, Micro Services**
 <br />
+I love to write about programming and technology. Read My Blogs 👉🏼 [<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/blog-15-104326.png?f=webp&w=32" >](https://coding-buddy.com)
 
 ![Github Stats](https://camo.githubusercontent.com/9956eafe39bf06a30858b72293cb039cf5c3d1becc4ac87c3b63ab5a529422a4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a726126686964655f70726f67726573733d74727565)
 
